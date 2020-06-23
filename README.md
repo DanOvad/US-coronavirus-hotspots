@@ -1,7 +1,7 @@
 #
 Mapping and Tracking Covid-19 
 **Dan Ovadia and Brett Holleman**
-test change
+
 ## Problem Statement 
 The Covid-19 pandemic needs no introduction. We were tasked with mapping Covid-19 hotspots. One problem facing citizens and policymakers alike is how to analyze the situation based on the data available. The available data are more or less restricted to deaths, cases, and tests, positive or negative. Case numbers are broadly irrelevant as they reflect more than anything the number of tests being administered. Raws deaths, while headline-making, are not terrible meaningful outside of a per capita basis. Per capita deaths, in turn, should be viewed in the context of population density, since places like California are very populous but not very dense. 
 
